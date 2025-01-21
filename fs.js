@@ -177,7 +177,7 @@ window.fs.addChild(
       },
       {
         img: "img/desktop/WordPad.png",
-        title: "CV.pdf",
+        title: "cv.pdf",
         launch: "cv",
       },
       {
