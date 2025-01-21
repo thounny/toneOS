@@ -84,7 +84,7 @@ class ResumeProgram extends Program {
 
 class CVProgram extends ResumeProgram {
   getDocumentURL() {
-    return "./toneOS/cv.pdf";
+    return "/toneOS/cv.pdf";
   }
 
   getDocumentTitle() {
