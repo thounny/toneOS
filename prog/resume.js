@@ -7,7 +7,7 @@ class ResumeProgram extends Program {
   }
 
   getDocumentURL() {
-    return "/toneOS/resume.pdf";
+    return "https://thounny.github.io/toneOS/resume.pdf";
   }
 
   getDocumentTitle() {
@@ -84,7 +84,7 @@ class ResumeProgram extends Program {
 
 class CVProgram extends ResumeProgram {
   getDocumentURL() {
-    return "/toneOS/cv.pdf";
+    return "https://thounny.github.io/toneOS/cv.pdf";
   }
 
   getDocumentTitle() {
